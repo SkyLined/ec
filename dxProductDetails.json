@@ -1,0 +1,29 @@
+{
+  "a0sDebugAdditionalProductNames": [
+    "mDebugOutput",
+    "mFileSystemItem",
+    "mNotProvided"
+  ],
+  "a0sDependentOnProductNames": [
+    "mConsole",
+    "mWindowsSDK"
+  ],
+  "a0sPythonApplicationNames": [
+    "ec"
+  ],
+  "asProductTypes": [
+    "Python application"
+  ],
+  "o0Repository": {
+    "sStructureVersion": "2021-07-02 11:16",
+    "sType": "GitHub",
+    "sbBranch": "master",
+    "sbRepositoryName": "ec",
+    "sbUserName": "SkyLined"
+  },
+  "oProductVersion": "2022-01-05 09:38",
+  "sProductAuthor": "SkyLined",
+  "sProductName": "ec",
+  "sStructureVersion": "2021-07-02 11:16",
+  "sb0ProductURL": "https://github.com/SkyLined/ec"
+}
