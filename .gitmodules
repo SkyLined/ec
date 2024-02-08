@@ -1,0 +1,6 @@
+[submodule "modules/mConsole"]
+	path = modules/mConsole
+	url = https://github.com/SkyLined/mConsole
+[submodule "modules/mWindowsSDK"]
+	path = modules/mWindowsSDK
+	url = https://github.com/SkyLined/mWindowsSDK
